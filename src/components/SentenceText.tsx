@@ -2,6 +2,9 @@ import { useEffect, useState } from 'react';
 import type { KeyboardEvent } from 'react';
 import { getSavedWord, removeWord, saveWord } from '../db/savedWords';
 import type { Sentence } from '../domain/story';
+// Importação presumida do tracker do Umami. Ajuste o caminho se necessário:
+// Se você usa o script injetado globalmente, pode omitir e usar window.umami.track('word_saved')
+import { trackEvent } from '../analytics';
 import styles from './SentenceText.module.css';
 
 interface SentenceTextProps {
@@ -44,6 +47,8 @@ function GlossaryChip({ id, term, pt, storyId, sentenceId }: GlossaryChipProps) 
       } else {
         await saveWord({ id, term, pt, storyId, sentenceId });
         setSaved(true);
+        // Track after a successful save only.
+        trackEvent('word_saved');
       }
       // Notify the tab bar (and any other listener) that the count may have changed.
       window.dispatchEvent(new CustomEvent('dailyinglish:wordchange'));
