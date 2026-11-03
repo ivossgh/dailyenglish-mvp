@@ -1,0 +1,85 @@
+.sentence {
+  padding: 0 2px;
+  border-radius: 6px;
+  cursor: pointer;
+  text-decoration: underline dotted;
+  text-decoration-color: color-mix(in srgb, var(--color-link) 55%, transparent);
+  text-underline-offset: 5px;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+.sentence:hover {
+  background: var(--teal-soft);
+}
+
+.open {
+  background: var(--yellow-soft);
+}
+
+.translationBlock {
+  display: block;
+  margin: 6px 0 12px;
+}
+
+.translation {
+  display: block;
+  padding: 8px 12px;
+  border-left: 3px solid var(--yellow);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  background: var(--yellow-soft);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding: 8px 0 0;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-pill);
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.chip:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.chipSaved {
+  background: var(--teal-soft);
+  border-color: var(--teal);
+  color: var(--teal);
+}
+
+.chipTerm {
+  font-weight: 700;
+}
+
+.chipPt {
+  color: var(--color-text-muted);
+}
+
+.chipSaved .chipPt {
+  color: var(--teal);
+  opacity: 0.8;
+}
+
+.chipAction {
+  font-weight: 800;
+  font-size: 0.9rem;
+}

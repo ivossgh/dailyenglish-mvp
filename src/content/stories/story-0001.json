@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "story-0001",
+  "title": "The Lost Key",
+  "titlePt": "A chave perdida",
+  "level": "A1",
+  "audioUrl": "/audio/story-0001.23287381.mp3",
+  "sentences": [
+    {
+      "id": "story-0001-s001",
+      "paragraph": 1,
+      "en": "Maria has a small key.",
+      "pt": "Maria tem uma chave pequena.",
+      "glossary": []
+    },
+    {
+      "id": "story-0001-s002",
+      "paragraph": 1,
+      "en": "She cannot find it today.",
+      "pt": "Ela não consegue encontrá-la hoje.",
+      "glossary": [
+        { "id": "story-0001-s002-w01", "term": "find", "pt": "encontrar" }
+      ]
+    },
+    {
+      "id": "story-0001-s003",
+      "paragraph": 1,
+      "en": "She looks under the table.",
+      "pt": "Ela procura embaixo da mesa.",
+      "glossary": [
+        { "id": "story-0001-s003-w01", "term": "under", "pt": "embaixo de" },
+        { "id": "story-0001-s003-w02", "term": "table", "pt": "mesa" }
+      ]
+    },
+    {
+      "id": "story-0001-s004",
+      "paragraph": 2,
+      "en": "She looks in her bag.",
+      "pt": "Ela procura na bolsa.",
+      "glossary": [
+        { "id": "story-0001-s004-w01", "term": "bag", "pt": "bolsa" }
+      ]
+    },
+    {
+      "id": "story-0001-s005",
+      "paragraph": 2,
+      "en": "The key is in her coat!",
+      "pt": "A chave está no casaco dela!",
+      "glossary": [
+        { "id": "story-0001-s005-w01", "term": "key", "pt": "chave" },
+        { "id": "story-0001-s005-w02", "term": "coat", "pt": "casaco" }
+      ]
+    },
+    {
+      "id": "story-0001-s006",
+      "paragraph": 2,
+      "en": "Maria is happy and goes to work.",
+      "pt": "Maria está feliz e vai para o trabalho.",
+      "glossary": [
+        { "id": "story-0001-s006-w01", "term": "happy", "pt": "feliz" }
+      ]
+    }
+  ]
+}

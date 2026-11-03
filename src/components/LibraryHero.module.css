@@ -1,0 +1,54 @@
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  min-height: 180px;
+  padding: 22px 15px 10px 22px;
+  overflow: hidden;
+  background: var(--teal);
+  color: #ffffff;
+  border-radius: var(--radius-xl);
+}
+
+.text {
+  min-width: 0;
+}
+
+.eyebrow {
+  margin: 0 0 0.6rem;
+  color: var(--yellow-soft);
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+}
+
+.title {
+  margin: 0 0 0.6rem;
+}
+
+.description {
+  max-width: 350px;
+  margin: 0;
+  font-size: 0.875rem;
+  opacity: 0.9;
+}
+
+@media (min-width: 700px) {
+  .hero > svg {
+    width: 155px;
+    height: 155px;
+  }
+}
+
+@media (min-width: 1100px) {
+  .hero {
+    min-height: 215px;
+    padding-left: 40px;
+  }
+
+  .hero > svg {
+    width: 190px;
+    height: 190px;
+  }
+}

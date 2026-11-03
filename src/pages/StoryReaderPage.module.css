@@ -1,0 +1,65 @@
+.page {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.back {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: var(--space-2) 0;
+  color: var(--color-link);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.head {
+  padding: 10px 0 24px;
+  text-align: center;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.badgeRow {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  margin: 16px 0 8px;
+  font-size: clamp(2.2rem, 8vw, 3.6rem);
+}
+
+.notFoundTitle {
+  margin: 16px 0 8px;
+}
+
+.subtitle {
+  margin: 0;
+  color: var(--color-text-muted);
+}
+
+.meta {
+  margin: 12px 0 0;
+  color: var(--color-text-muted);
+  font-size: 0.75rem;
+}
+
+.hint {
+  margin: 16px 0 0;
+  padding: 10px 14px;
+  border-radius: var(--radius-md);
+  background: var(--teal-soft);
+  color: var(--color-text);
+  font-size: 0.875rem;
+}
+
+.copy {
+  padding-top: 16px;
+}
+
+.copy p {
+  margin-bottom: 1.35em;
+  font-family: var(--font-reading);
+  font-size: clamp(1.14rem, 3vw, 1.3rem);
+  line-height: 1.9;
+}

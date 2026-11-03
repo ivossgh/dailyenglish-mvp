@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "story-0002",
+  "title": "A Rainy Saturday",
+  "titlePt": "Um sábado chuvoso",
+  "level": "A2",
+  "audioUrl": null,
+  "sentences": [
+    {
+      "id": "story-0002-s001",
+      "paragraph": 1,
+      "en": "It was Saturday, but it was raining all morning.",
+      "pt": "Era sábado, mas estava chovendo a manhã inteira.",
+      "glossary": [
+        { "id": "story-0002-s001-w01", "term": "all morning", "pt": "a manhã inteira" }
+      ]
+    },
+    {
+      "id": "story-0002-s002",
+      "paragraph": 1,
+      "en": "Tom wanted to go to the park with his dog.",
+      "pt": "Tom queria ir ao parque com o cachorro dele.",
+      "glossary": []
+    },
+    {
+      "id": "story-0002-s003",
+      "paragraph": 2,
+      "en": "Instead, he stayed at home and cleaned his room.",
+      "pt": "Em vez disso, ele ficou em casa e arrumou o quarto.",
+      "glossary": [
+        { "id": "story-0002-s003-w01", "term": "instead", "pt": "em vez disso" }
+      ]
+    },
+    {
+      "id": "story-0002-s004",
+      "paragraph": 2,
+      "en": "He found an old book under his bed.",
+      "pt": "Ele encontrou um livro velho embaixo da cama.",
+      "glossary": [
+        { "id": "story-0002-s004-w01", "term": "found", "pt": "encontrou" }
+      ]
+    },
+    {
+      "id": "story-0002-s005",
+      "paragraph": 3,
+      "en": "He read it for two hours, and the dog slept next to him.",
+      "pt": "Ele leu por duas horas, e o cachorro dormiu ao lado dele.",
+      "glossary": [
+        { "id": "story-0002-s005-w01", "term": "next to", "pt": "ao lado de" }
+      ]
+    },
+    {
+      "id": "story-0002-s006",
+      "paragraph": 3,
+      "en": "In the afternoon, the rain stopped, so they finally went out.",
+      "pt": "À tarde, a chuva parou, então eles finalmente saíram.",
+      "glossary": [
+        { "id": "story-0002-s006-w01", "term": "finally", "pt": "finalmente" }
+      ]
+    }
+  ]
+}

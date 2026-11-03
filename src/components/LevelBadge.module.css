@@ -1,0 +1,10 @@
+.badge {
+  display: inline-flex;
+  width: fit-content;
+  padding: 4px 9px;
+  border-radius: var(--radius-pill);
+  background: var(--level-bg);
+  color: var(--level-fg);
+  font-size: 0.75rem;
+  font-weight: 800;
+}

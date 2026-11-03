@@ -1,0 +1,146 @@
+:root {
+  --tab-h: 72px;
+}
+
+.shell {
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: color-mix(in srgb, var(--color-bg) 92%, transparent);
+  backdrop-filter: blur(15px);
+  border-bottom: 1px solid color-mix(in srgb, var(--color-border) 70%, transparent);
+}
+
+.headerInner {
+  display: flex;
+  align-items: center;
+  width: min(100% - 32px, 1000px);
+  height: 64px;
+  margin: 0 auto;
+}
+
+.brand {
+  font-family: var(--font-heading);
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+.brandAccent {
+  color: var(--color-primary);
+}
+
+.main {
+  flex: 1;
+  width: min(100% - 32px, 1000px);
+  margin: 0 auto;
+  padding: 22px 0 calc(var(--tab-h) + 24px);
+}
+
+/* On the reader page, the audio player is sticky under the top bar.
+   Extra top padding would push it too far down. */
+.mainReader {
+  padding-top: 0;
+}
+
+.tabbar {
+  position: fixed;
+  z-index: 30;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: var(--tab-h);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  background: color-mix(in srgb, var(--color-surface) 95%, transparent);
+  backdrop-filter: blur(16px);
+  border-top: 1px solid var(--color-border);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+.tab {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  color: var(--color-text-muted);
+  text-decoration: none;
+  font-size: 0.7rem;
+  font-weight: 700;
+}
+
+.tabActive {
+  color: var(--color-primary);
+}
+
+.tabIcon {
+  position: relative;
+  display: flex;
+}
+
+.badge {
+  position: absolute;
+  top: -6px;
+  right: -18px;
+  min-width: 18px;
+  height: 18px;
+  padding: 0 4px;
+  border-radius: var(--radius-pill);
+  background: var(--color-primary);
+  color: var(--color-primary-contrast);
+  font-size: 0.55rem;
+  font-weight: 800;
+  display: grid;
+  place-items: center;
+}
+
+.tabLabel {
+  line-height: 1;
+}
+
+@media (min-width: 700px) {
+  .main {
+    padding-top: 34px;
+  }
+
+  .mainReader {
+    padding-top: 0;
+  }
+}
+
+@media (min-width: 1100px) {
+  .tabbar {
+    top: 0;
+    bottom: auto;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 320px;
+    height: 64px;
+    border: 0;
+    background: transparent;
+    backdrop-filter: none;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .tab {
+    flex-direction: row;
+    gap: 8px;
+    border-radius: 13px;
+    font-size: 0.76rem;
+  }
+
+  .tab:hover,
+  .tabActive {
+    background: var(--color-bg);
+    color: var(--color-primary);
+  }
+}
