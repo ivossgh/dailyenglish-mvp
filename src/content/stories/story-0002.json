@@ -1,61 +1,288 @@
 {
   "schemaVersion": 1,
   "id": "story-0002",
-  "title": "A Rainy Saturday",
-  "titlePt": "Um sábado chuvoso",
-  "level": "A2",
-  "audioUrl": null,
+  "title": "Cooking Lunch with Family",
+  "titlePt": "Cozinhando o Almoço em Família",
+  "level": "A1",
+  "audioUrl": "/audio/story-0002.ec460be7.mp3",
   "sentences": [
     {
       "id": "story-0002-s001",
       "paragraph": 1,
-      "en": "It was Saturday, but it was raining all morning.",
-      "pt": "Era sábado, mas estava chovendo a manhã inteira.",
+      "en": "It is Saturday afternoon.",
+      "pt": "É sábado à tarde.",
       "glossary": [
-        { "id": "story-0002-s001-w01", "term": "all morning", "pt": "a manhã inteira" }
+        {
+          "id": "story-0002-s001-w01",
+          "term": "afternoon",
+          "pt": "tarde"
+        }
       ]
     },
     {
       "id": "story-0002-s002",
       "paragraph": 1,
-      "en": "Tom wanted to go to the park with his dog.",
-      "pt": "Tom queria ir ao parque com o cachorro dele.",
-      "glossary": []
+      "en": "Lucas is in the kitchen.",
+      "pt": "Lucas está na cozinha.",
+      "glossary": [
+        {
+          "id": "story-0002-s002-w01",
+          "term": "kitchen",
+          "pt": "cozinha"
+        }
+      ]
     },
     {
       "id": "story-0002-s003",
-      "paragraph": 2,
-      "en": "Instead, he stayed at home and cleaned his room.",
-      "pt": "Em vez disso, ele ficou em casa e arrumou o quarto.",
+      "paragraph": 1,
+      "en": "His mother is there too.",
+      "pt": "A mãe dele está lá também.",
       "glossary": [
-        { "id": "story-0002-s003-w01", "term": "instead", "pt": "em vez disso" }
+        {
+          "id": "story-0002-s003-w01",
+          "term": "there",
+          "pt": "lá"
+        }
       ]
     },
     {
       "id": "story-0002-s004",
-      "paragraph": 2,
-      "en": "He found an old book under his bed.",
-      "pt": "Ele encontrou um livro velho embaixo da cama.",
+      "paragraph": 1,
+      "en": "She cooks lunch.",
+      "pt": "Ela cozinha o almoço.",
       "glossary": [
-        { "id": "story-0002-s004-w01", "term": "found", "pt": "encontrou" }
+        {
+          "id": "story-0002-s004-w01",
+          "term": "cooks",
+          "pt": "cozinha"
+        },
+        {
+          "id": "story-0002-s004-w02",
+          "term": "lunch",
+          "pt": "almoço"
+        }
       ]
     },
     {
       "id": "story-0002-s005",
-      "paragraph": 3,
-      "en": "He read it for two hours, and the dog slept next to him.",
-      "pt": "Ele leu por duas horas, e o cachorro dormiu ao lado dele.",
+      "paragraph": 2,
+      "en": "Lucas helps his mother.",
+      "pt": "Lucas ajuda sua mãe.",
       "glossary": [
-        { "id": "story-0002-s005-w01", "term": "next to", "pt": "ao lado de" }
+        {
+          "id": "story-0002-s005-w01",
+          "term": "helps",
+          "pt": "ajuda"
+        }
       ]
     },
     {
       "id": "story-0002-s006",
-      "paragraph": 3,
-      "en": "In the afternoon, the rain stopped, so they finally went out.",
-      "pt": "À tarde, a chuva parou, então eles finalmente saíram.",
+      "paragraph": 2,
+      "en": "He washes the tomatoes.",
+      "pt": "Ele lava os tomates.",
       "glossary": [
-        { "id": "story-0002-s006-w01", "term": "finally", "pt": "finalmente" }
+        {
+          "id": "story-0002-s006-w01",
+          "term": "washes",
+          "pt": "lava"
+        },
+        {
+          "id": "story-0002-s006-w02",
+          "term": "tomatoes",
+          "pt": "tomates"
+        }
+      ]
+    },
+    {
+      "id": "story-0002-s007",
+      "paragraph": 2,
+      "en": "He cuts the onions.",
+      "pt": "Ele corta as cebolas.",
+      "glossary": [
+        {
+          "id": "story-0002-s007-w01",
+          "term": "cuts",
+          "pt": "corta"
+        },
+        {
+          "id": "story-0002-s007-w02",
+          "term": "onions",
+          "pt": "cebolas"
+        }
+      ]
+    },
+    {
+      "id": "story-0002-s008",
+      "paragraph": 2,
+      "en": "His eyes are red.",
+      "pt": "Os olhos dele estão vermelhos.",
+      "glossary": [
+        {
+          "id": "story-0002-s008-w01",
+          "term": "eyes",
+          "pt": "olhos"
+        },
+        {
+          "id": "story-0002-s008-w02",
+          "term": "red",
+          "pt": "vermelhos"
+        }
+      ]
+    },
+    {
+      "id": "story-0002-s009",
+      "paragraph": 2,
+      "en": "His mother laughs.",
+      "pt": "A mãe dele ri.",
+      "glossary": [
+        {
+          "id": "story-0002-s009-w01",
+          "term": "laughs",
+          "pt": "ri"
+        }
+      ]
+    },
+    {
+      "id": "story-0002-s010",
+      "paragraph": 3,
+      "en": "His father and his sister come home.",
+      "pt": "O pai dele e a irmã dele chegam em casa.",
+      "glossary": [
+        {
+          "id": "story-0002-s010-w01",
+          "term": "come home",
+          "pt": "chegam em casa"
+        }
+      ]
+    },
+    {
+      "id": "story-0002-s011",
+      "paragraph": 3,
+      "en": "They are hungry.",
+      "pt": "Eles estão com fome.",
+      "glossary": [
+        {
+          "id": "story-0002-s011-w01",
+          "term": "hungry",
+          "pt": "com fome"
+        }
+      ]
+    },
+    {
+      "id": "story-0002-s012",
+      "paragraph": 3,
+      "en": "The family sits at the table.",
+      "pt": "A família se senta à mesa.",
+      "glossary": [
+        {
+          "id": "story-0002-s012-w01",
+          "term": "sits",
+          "pt": "senta"
+        },
+        {
+          "id": "story-0002-s012-w02",
+          "term": "table",
+          "pt": "mesa"
+        }
+      ]
+    },
+    {
+      "id": "story-0002-s013",
+      "paragraph": 3,
+      "en": "They eat rice, beans, and chicken.",
+      "pt": "Eles comem arroz, feijão e frango.",
+      "glossary": [
+        {
+          "id": "story-0002-s013-w01",
+          "term": "rice",
+          "pt": "arroz"
+        },
+        {
+          "id": "story-0002-s013-w02",
+          "term": "beans",
+          "pt": "feijão"
+        },
+        {
+          "id": "story-0002-s013-w03",
+          "term": "chicken",
+          "pt": "frango"
+        }
+      ]
+    },
+    {
+      "id": "story-0002-s014",
+      "paragraph": 4,
+      "en": "Lucas drinks juice.",
+      "pt": "Lucas bebe suco.",
+      "glossary": [
+        {
+          "id": "story-0002-s014-w01",
+          "term": "drinks",
+          "pt": "bebe"
+        },
+        {
+          "id": "story-0002-s014-w02",
+          "term": "juice",
+          "pt": "suco"
+        }
+      ]
+    },
+    {
+      "id": "story-0002-s015",
+      "paragraph": 4,
+      "en": "His sister drinks water.",
+      "pt": "A irmã dele bebe água.",
+      "glossary": [
+        {
+          "id": "story-0002-s015-w01",
+          "term": "water",
+          "pt": "água"
+        }
+      ]
+    },
+    {
+      "id": "story-0002-s016",
+      "paragraph": 4,
+      "en": "Bob sits under the table.",
+      "pt": "Bob se senta debaixo da mesa.",
+      "glossary": [
+        {
+          "id": "story-0002-s016-w01",
+          "term": "under",
+          "pt": "debaixo de"
+        }
+      ]
+    },
+    {
+      "id": "story-0002-s017",
+      "paragraph": 4,
+      "en": "He is hungry too.",
+      "pt": "Ele também está com fome.",
+      "glossary": [
+        {
+          "id": "story-0002-s017-w01",
+          "term": "too",
+          "pt": "também"
+        }
+      ]
+    },
+    {
+      "id": "story-0002-s018",
+      "paragraph": 5,
+      "en": "Lucas says, “I love my family!”",
+      "pt": "Lucas diz: “Eu amo minha família!”",
+      "glossary": [
+        {
+          "id": "story-0002-s018-w01",
+          "term": "says",
+          "pt": "diz"
+        },
+        {
+          "id": "story-0002-s018-w02",
+          "term": "love",
+          "pt": "amo"
+        }
       ]
     }
   ]

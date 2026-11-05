@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "id": "story-0003",
+  "title": "A Day at the Park",
+  "titlePt": "Um Dia no Parque",
+  "level": "A1",
+  "audioUrl": "/audio/story-0003.8e0a8309.mp3",
+  "sentences": [
+    {
+      "id": "story-0003-s001",
+      "paragraph": 1,
+      "en": "It is Saturday afternoon.",
+      "pt": "É sábado à tarde.",
+      "glossary": [
+        {
+          "id": "story-0003-s001-w01",
+          "term": "afternoon",
+          "pt": "tarde"
+        }
+      ]
+    },
+    {
+      "id": "story-0003-s002",
+      "paragraph": 1,
+      "en": "The sun is hot.",
+      "pt": "O sol está quente.",
+      "glossary": [
+        {
+          "id": "story-0003-s002-w01",
+          "term": "sun",
+          "pt": "sol"
+        },
+        {
+          "id": "story-0003-s002-w02",
+          "term": "hot",
+          "pt": "quente"
+        }
+      ]
+    },
+    {
+      "id": "story-0003-s003",
+      "paragraph": 1,
+      "en": "Lucas is ready.",
+      "pt": "Lucas está pronto.",
+      "glossary": [
+        {
+          "id": "story-0003-s003-w01",
+          "term": "ready",
+          "pt": "pronto"
+        }
+      ]
+    },
+    {
+      "id": "story-0003-s004",
+      "paragraph": 1,
+      "en": "He puts on his shoes and his cap.",
+      "pt": "Ele coloca seus sapatos e seu boné.",
+      "glossary": [
+        {
+          "id": "story-0003-s004-w01",
+          "term": "puts on",
+          "pt": "coloca"
+        },
+        {
+          "id": "story-0003-s004-w02",
+          "term": "shoes",
+          "pt": "sapatos"
+        },
+        {
+          "id": "story-0003-s004-w03",
+          "term": "cap",
+          "pt": "boné"
+        }
+      ]
+    },
+    {
+      "id": "story-0003-s005",
+      "paragraph": 1,
+      "en": "He takes Bob’s ball.",
+      "pt": "Ele pega a bola do Bob.",
+      "glossary": [
+        {
+          "id": "story-0003-s005-w01",
+          "term": "takes",
+          "pt": "pega"
+        },
+        {
+          "id": "story-0003-s005-w02",
+          "term": "ball",
+          "pt": "bola"
+        }
+      ]
+    },
+    {
+      "id": "story-0003-s006",
+      "paragraph": 2,
+      "en": "Lucas goes to the park with Bob.",
+      "pt": "Lucas vai ao parque com o Bob.",
+      "glossary": [
+        {
+          "id": "story-0003-s006-w01",
+          "term": "goes",
+          "pt": "vai"
+        },
+        {
+          "id": "story-0003-s006-w02",
+          "term": "park",
+          "pt": "parque"
+        }
+      ]
+    },
+    {
+      "id": "story-0003-s007",
+      "paragraph": 2,
+      "en": "His friend Mateus is at the park too.",
+      "pt": "O amigo dele, Mateus, está no parque também.",
+      "glossary": [
+        {
+          "id": "story-0003-s007-w01",
+          "term": "friend",
+          "pt": "amigo"
+        }
+      ]
+    },
+    {
+      "id": "story-0003-s008",
+      "paragraph": 2,
+      "en": "Mateus has a bike.",
+      "pt": "Mateus tem uma bicicleta.",
+      "glossary": [
+        {
+          "id": "story-0003-s008-w01",
+          "term": "bike",
+          "pt": "bicicleta"
+        }
+      ]
+    },
+    {
+      "id": "story-0003-s009",
+      "paragraph": 2,
+      "en": "He says, “Hi, Lucas! Hi, Bob!”",
+      "pt": "Ele diz: “Oi, Lucas! Oi, Bob!”",
+      "glossary": [
+        {
+          "id": "story-0003-s009-w01",
+          "term": "says",
+          "pt": "diz"
+        }
+      ]
+    },
+    {
+      "id": "story-0003-s010",
+      "paragraph": 3,
+      "en": "The two friends walk under the trees.",
+      "pt": "Os dois amigos caminham debaixo das árvores.",
+      "glossary": [
+        {
+          "id": "story-0003-s010-w01",
+          "term": "walk",
+          "pt": "caminham"
+        },
+        {
+          "id": "story-0003-s010-w02",
+          "term": "under",
+          "pt": "debaixo de"
+        },
+        {
+          "id": "story-0003-s010-w03",
+          "term": "trees",
+          "pt": "árvores"
+        }
+      ]
+    },
+    {
+      "id": "story-0003-s011",
+      "paragraph": 3,
+      "en": "Bob runs after the ball.",
+      "pt": "Bob corre atrás da bola.",
+      "glossary": [
+        {
+          "id": "story-0003-s011-w01",
+          "term": "runs",
+          "pt": "corre"
+        },
+        {
+          "id": "story-0003-s011-w02",
+          "term": "after",
+          "pt": "atrás de"
+        }
+      ]
+    },
+    {
+      "id": "story-0003-s012",
+      "paragraph": 3,
+      "en": "He is very fast.",
+      "pt": "Ele é muito rápido.",
+      "glossary": [
+        {
+          "id": "story-0003-s012-w01",
+          "term": "fast",
+          "pt": "rápido"
+        }
+      ]
+    },
+    {
+      "id": "story-0003-s013",
+      "paragraph": 3,
+      "en": "The children play near the lake.",
+      "pt": "As crianças brincam perto do lago.",
+      "glossary": [
+        {
+          "id": "story-0003-s013-w01",
+          "term": "children",
+          "pt": "crianças"
+        },
+        {
+          "id": "story-0003-s013-w02",
+          "term": "lake",
+          "pt": "lago"
+        }
+      ]
+    },
+    {
+      "id": "story-0003-s014",
+      "paragraph": 3,
+      "en": "Lucas smiles.",
+      "pt": "Lucas sorri.",
+      "glossary": [
+        {
+          "id": "story-0003-s014-w01",
+          "term": "smiles",
+          "pt": "sorri"
+        }
+      ]
+    },
+    {
+      "id": "story-0003-s015",
+      "paragraph": 3,
+      "en": "He likes the park.",
+      "pt": "Ele gosta do parque.",
+      "glossary": [
+        {
+          "id": "story-0003-s015-w01",
+          "term": "likes",
+          "pt": "gosta"
+        }
+      ]
+    },
+    {
+      "id": "story-0003-s016",
+      "paragraph": 4,
+      "en": "Lucas buys two ice creams.",
+      "pt": "Lucas compra dois sorvetes.",
+      "glossary": [
+        {
+          "id": "story-0003-s016-w01",
+          "term": "buys",
+          "pt": "compra"
+        },
+        {
+          "id": "story-0003-s016-w02",
+          "term": "ice creams",
+          "pt": "sorvetes"
+        }
+      ]
+    },
+    {
+      "id": "story-0003-s017",
+      "paragraph": 4,
+      "en": "One is for Lucas.",
+      "pt": "Um é para o Lucas.",
+      "glossary": []
+    },
+    {
+      "id": "story-0003-s018",
+      "paragraph": 4,
+      "en": "One is for Mateus.",
+      "pt": "Um é para o Mateus.",
+      "glossary": []
+    }
+  ]
+}

@@ -31,7 +31,7 @@ export default function Layout() {
       <header className={styles.header}>
         <div className={styles.headerInner}>
           <Link to="/" className={styles.brand}>
-            Daily<span className={styles.brandAccent}>Inglish</span>
+            Daily<span className={styles.brandAccent}>English</span>
           </Link>
         </div>
       </header>

@@ -1,63 +1,132 @@
 {
   "schemaVersion": 1,
   "id": "story-0001",
-  "title": "The Lost Key",
-  "titlePt": "A chave perdida",
+  "title": "Lucas's Saturday Morning",
+  "titlePt": "A manhã de sábado do Lucas",
   "level": "A1",
-  "audioUrl": "/audio/story-0001.23287381.mp3",
+  "audioUrl": "/audio/story-0001.30b4c101.mp3",
   "sentences": [
     {
       "id": "story-0001-s001",
       "paragraph": 1,
-      "en": "Maria has a small key.",
-      "pt": "Maria tem uma chave pequena.",
-      "glossary": []
+      "en": "It is Saturday morning.",
+      "pt": "É sábado de manhã.",
+      "glossary": [
+        { "id": "story-0001-s001-w01", "term": "Saturday", "pt": "sábado" },
+        { "id": "story-0001-s001-w02", "term": "morning", "pt": "manhã" }
+      ]
     },
     {
       "id": "story-0001-s002",
       "paragraph": 1,
-      "en": "She cannot find it today.",
-      "pt": "Ela não consegue encontrá-la hoje.",
+      "en": "Lucas is at home.",
+      "pt": "Lucas está em casa.",
       "glossary": [
-        { "id": "story-0001-s002-w01", "term": "find", "pt": "encontrar" }
+        { "id": "story-0001-s002-w01", "term": "home", "pt": "casa" }
       ]
     },
     {
       "id": "story-0001-s003",
       "paragraph": 1,
-      "en": "She looks under the table.",
-      "pt": "Ela procura embaixo da mesa.",
+      "en": "He is happy.",
+      "pt": "Ele está feliz.",
       "glossary": [
-        { "id": "story-0001-s003-w01", "term": "under", "pt": "embaixo de" },
-        { "id": "story-0001-s003-w02", "term": "table", "pt": "mesa" }
+        { "id": "story-0001-s003-w01", "term": "happy", "pt": "feliz" }
       ]
     },
     {
       "id": "story-0001-s004",
       "paragraph": 2,
-      "en": "She looks in her bag.",
-      "pt": "Ela procura na bolsa.",
+      "en": "Lucas gets up at eight o'clock.",
+      "pt": "Lucas se levanta às oito horas.",
       "glossary": [
-        { "id": "story-0001-s004-w01", "term": "bag", "pt": "bolsa" }
+        { "id": "story-0001-s004-w01", "term": "gets up", "pt": "se levanta" },
+        { "id": "story-0001-s004-w02", "term": "eight o'clock", "pt": "oito horas" }
       ]
     },
     {
       "id": "story-0001-s005",
       "paragraph": 2,
-      "en": "The key is in her coat!",
-      "pt": "A chave está no casaco dela!",
+      "en": "He goes to the kitchen.",
+      "pt": "Ele vai para a cozinha.",
       "glossary": [
-        { "id": "story-0001-s005-w01", "term": "key", "pt": "chave" },
-        { "id": "story-0001-s005-w02", "term": "coat", "pt": "casaco" }
+        { "id": "story-0001-s005-w01", "term": "kitchen", "pt": "cozinha" }
       ]
     },
     {
       "id": "story-0001-s006",
       "paragraph": 2,
-      "en": "Maria is happy and goes to work.",
-      "pt": "Maria está feliz e vai para o trabalho.",
+      "en": "He drinks water.",
+      "pt": "Ele bebe água.",
       "glossary": [
-        { "id": "story-0001-s006-w01", "term": "happy", "pt": "feliz" }
+        { "id": "story-0001-s006-w01", "term": "drinks", "pt": "bebe" },
+        { "id": "story-0001-s006-w02", "term": "water", "pt": "água" }
+      ]
+    },
+    {
+      "id": "story-0001-s007",
+      "paragraph": 2,
+      "en": "He eats bread and eggs.",
+      "pt": "Ele come pão e ovos.",
+      "glossary": [
+        { "id": "story-0001-s007-w01", "term": "eats", "pt": "come" },
+        { "id": "story-0001-s007-w02", "term": "bread", "pt": "pão" },
+        { "id": "story-0001-s007-w03", "term": "eggs", "pt": "ovos" }
+      ]
+    },
+    {
+      "id": "story-0001-s008",
+      "paragraph": 2,
+      "en": "He drinks coffee with milk.",
+      "pt": "Ele bebe café com leite.",
+      "glossary": [
+        { "id": "story-0001-s008-w01", "term": "coffee", "pt": "café" },
+        { "id": "story-0001-s008-w02", "term": "milk", "pt": "leite" }
+      ]
+    },
+    {
+      "id": "story-0001-s009",
+      "paragraph": 3,
+      "en": "Lucas has a dog.",
+      "pt": "Lucas tem um cachorro.",
+      "glossary": [
+        { "id": "story-0001-s009-w01", "term": "dog", "pt": "cachorro" }
+      ]
+    },
+    {
+      "id": "story-0001-s010",
+      "paragraph": 3,
+      "en": "The dog is Bob.",
+      "pt": "O cachorro é o Bob.",
+      "glossary": []
+    },
+    {
+      "id": "story-0001-s011",
+      "paragraph": 3,
+      "en": "Lucas gives food to Bob.",
+      "pt": "Lucas dá comida para o Bob.",
+      "glossary": [
+        { "id": "story-0001-s011-w01", "term": "gives", "pt": "dá" },
+        { "id": "story-0001-s011-w02", "term": "food", "pt": "comida" }
+      ]
+    },
+    {
+      "id": "story-0001-s012",
+      "paragraph": 3,
+      "en": "Bob is happy too.",
+      "pt": "Bob está feliz também.",
+      "glossary": [
+        { "id": "story-0001-s012-w01", "term": "too", "pt": "também" }
+      ]
+    },
+    {
+      "id": "story-0001-s013",
+      "paragraph": 4,
+      "en": "Lucas says, \"Good morning, Bob!\"",
+      "pt": "Lucas diz: \"Bom dia, Bob!\"",
+      "glossary": [
+        { "id": "story-0001-s013-w01", "term": "says", "pt": "diz" },
+        { "id": "story-0001-s013-w02", "term": "Good morning", "pt": "Bom dia" }
       ]
     }
   ]

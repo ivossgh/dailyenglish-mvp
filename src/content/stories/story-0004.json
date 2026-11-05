@@ -1,0 +1,302 @@
+{
+  "schemaVersion": 1,
+  "id": "story-0004",
+  "title": "Saturday Night at Home",
+  "titlePt": "Sábado à Noite em Casa",
+  "level": "A1",
+  "audioUrl": "/audio/story-0004.d395be06.mp3",
+  "sentences": [
+    {
+      "id": "story-0004-s001",
+      "paragraph": 1,
+      "en": "It is Saturday night.",
+      "pt": "É sábado à noite.",
+      "glossary": [
+        {
+          "id": "story-0004-s001-w01",
+          "term": "night",
+          "pt": "noite"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s002",
+      "paragraph": 1,
+      "en": "Lucas is at home.",
+      "pt": "Lucas está em casa.",
+      "glossary": [
+        {
+          "id": "story-0004-s002-w01",
+          "term": "at home",
+          "pt": "em casa"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s003",
+      "paragraph": 1,
+      "en": "He is tired, but he is happy.",
+      "pt": "Ele está cansado, mas está feliz.",
+      "glossary": [
+        {
+          "id": "story-0004-s003-w01",
+          "term": "tired",
+          "pt": "cansado"
+        },
+        {
+          "id": "story-0004-s003-w02",
+          "term": "but",
+          "pt": "mas"
+        },
+        {
+          "id": "story-0004-s003-w03",
+          "term": "happy",
+          "pt": "feliz"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s004",
+      "paragraph": 2,
+      "en": "His mother makes dinner.",
+      "pt": "A mãe dele faz o jantar.",
+      "glossary": [
+        {
+          "id": "story-0004-s004-w01",
+          "term": "makes",
+          "pt": "faz"
+        },
+        {
+          "id": "story-0004-s004-w02",
+          "term": "dinner",
+          "pt": "jantar"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s005",
+      "paragraph": 2,
+      "en": "It is soup and a sandwich.",
+      "pt": "É sopa e um sanduíche.",
+      "glossary": [
+        {
+          "id": "story-0004-s005-w01",
+          "term": "soup",
+          "pt": "sopa"
+        },
+        {
+          "id": "story-0004-s005-w02",
+          "term": "sandwich",
+          "pt": "sanduíche"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s006",
+      "paragraph": 2,
+      "en": "Lucas eats at the table with his family.",
+      "pt": "Lucas come à mesa com sua família.",
+      "glossary": [
+        {
+          "id": "story-0004-s006-w01",
+          "term": "eats",
+          "pt": "come"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s007",
+      "paragraph": 3,
+      "en": "After dinner, Lucas takes a shower.",
+      "pt": "Depois do jantar, Lucas toma um banho.",
+      "glossary": [
+        {
+          "id": "story-0004-s007-w01",
+          "term": "After",
+          "pt": "Depois de"
+        },
+        {
+          "id": "story-0004-s007-w02",
+          "term": "takes a shower",
+          "pt": "toma um banho"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s008",
+      "paragraph": 3,
+      "en": "The water is warm.",
+      "pt": "A água está morna.",
+      "glossary": [
+        {
+          "id": "story-0004-s008-w01",
+          "term": "warm",
+          "pt": "morna"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s009",
+      "paragraph": 3,
+      "en": "He brushes his teeth.",
+      "pt": "Ele escova os dentes.",
+      "glossary": [
+        {
+          "id": "story-0004-s009-w01",
+          "term": "brushes",
+          "pt": "escova"
+        },
+        {
+          "id": "story-0004-s009-w02",
+          "term": "teeth",
+          "pt": "dentes"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s010",
+      "paragraph": 3,
+      "en": "He puts on his pajamas.",
+      "pt": "Ele veste seu pijama.",
+      "glossary": [
+        {
+          "id": "story-0004-s010-w01",
+          "term": "pajamas",
+          "pt": "pijama"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s011",
+      "paragraph": 4,
+      "en": "His father watches TV in the living room.",
+      "pt": "O pai dele assiste TV na sala de estar.",
+      "glossary": [
+        {
+          "id": "story-0004-s011-w01",
+          "term": "watches",
+          "pt": "assiste"
+        },
+        {
+          "id": "story-0004-s011-w02",
+          "term": "living room",
+          "pt": "sala de estar"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s012",
+      "paragraph": 4,
+      "en": "His sister reads a book.",
+      "pt": "A irmã dele lê um livro.",
+      "glossary": [
+        {
+          "id": "story-0004-s012-w01",
+          "term": "reads",
+          "pt": "lê"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s013",
+      "paragraph": 4,
+      "en": "Bob sleeps on the sofa.",
+      "pt": "Bob dorme no sofá.",
+      "glossary": [
+        {
+          "id": "story-0004-s013-w01",
+          "term": "sleeps",
+          "pt": "dorme"
+        },
+        {
+          "id": "story-0004-s013-w02",
+          "term": "sofa",
+          "pt": "sofá"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s014",
+      "paragraph": 5,
+      "en": "At ten o’clock, Lucas goes to his bedroom.",
+      "pt": "Às dez horas, Lucas vai para o seu quarto.",
+      "glossary": [
+        {
+          "id": "story-0004-s014-w01",
+          "term": "bedroom",
+          "pt": "quarto"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s015",
+      "paragraph": 5,
+      "en": "He turns off the light.",
+      "pt": "Ele apaga a luz.",
+      "glossary": [
+        {
+          "id": "story-0004-s015-w01",
+          "term": "turns off",
+          "pt": "apaga"
+        },
+        {
+          "id": "story-0004-s015-w02",
+          "term": "light",
+          "pt": "luz"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s016",
+      "paragraph": 5,
+      "en": "He goes to bed.",
+      "pt": "Ele vai para a cama.",
+      "glossary": [
+        {
+          "id": "story-0004-s016-w01",
+          "term": "goes to bed",
+          "pt": "vai para a cama"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s017",
+      "paragraph": 5,
+      "en": "Bob comes to the room.",
+      "pt": "Bob vem para o quarto.",
+      "glossary": [
+        {
+          "id": "story-0004-s017-w01",
+          "term": "comes",
+          "pt": "vem"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s018",
+      "paragraph": 5,
+      "en": "He sleeps on the floor.",
+      "pt": "Ele dorme no chão.",
+      "glossary": [
+        {
+          "id": "story-0004-s018-w01",
+          "term": "floor",
+          "pt": "chão"
+        }
+      ]
+    },
+    {
+      "id": "story-0004-s019",
+      "paragraph": 6,
+      "en": "Lucas says, “Good night, Bob!”",
+      "pt": "Lucas diz: “Boa noite, Bob!”",
+      "glossary": [
+        {
+          "id": "story-0004-s019-w01",
+          "term": "Good night",
+          "pt": "Boa noite"
+        }
+      ]
+    }
+  ]
+}
